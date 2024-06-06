@@ -16,7 +16,7 @@ public class ContaTerminal {
      *                            informações
      * 
      */
-
+ 
     public static void inserirInformacoes() {
         InformacoesCadastro informacoesCadastro = new InformacoesCadastro();
         Scanner scanner = new Scanner(System.in);
